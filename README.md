@@ -1,22 +1,8 @@
 # StreetGuard-AI-Pothole-Reporter
 "Technical review and documentation for AI-based pothole detection system"
  GitHub README and profile for
-Copilot Chat
-Creating GitHub README and profile for
-https://github.com/Yashsmakwana/Gesture-Classification-System this is the reference I give you to make same according to for me of my project isStreetGuard AI Pothole Reporter is my project name to domin is project of AI/ML to be created and build a report to this criteria 📌 **Project Documentation Task Summary**
 
-We have to select/study an **already existing project** and prepare a **review paper / technical documentation** based on it.
 
-• No need to create or code a new project.
-• Focus only on the **theory and technical details** of the project.
-• Report should be around **10–15 pages or more** depending on the project.
-• Include Abstract, Introduction, Need of Project, Technologies/Techniques Used, Science/Concept Behind It, Methodology, Working Process, Advantages, Benefits, etc.
-• Add relevant images/diagrams wherever possible with **proper references**.
-• Avoid copyrighted content and mention all sources/references properly..
-• It should be prepared like a **review paper**.Please in the report to be do of Just give architecture of this system and input output execution with database configuration and end result in
-Direct answer — below is a complete technical documentation / review-style report focused on system architecture, input→output execution, database configuration, and expected end results for your project "StreetGuard — AI Pothole Reporter", prepared by studying the reference repository (Gesture-Classification-System) and adapting its pattern to an AI/ML pothole reporting system.
-
-What I did: I studied the referenced Gesture-Classification-System as a structural pattern (data collection → model training → inference → UI/backend) and created a full technical report oriented to StreetGuard covering theory, recommended ML approach, a clear system architecture (block + sequence), detailed input/output formats, API examples, database schema and sample SQL, deployment notes, evaluation metrics, and final outputs (reports & dashboard). What’s next: you can ask me to expand any section into a printable PDF, add figures (I can produce PNG diagrams), or convert the report into a presentation or LaTeX paper.
 
 StreetGuard — AI Pothole Reporter
 Abstract
